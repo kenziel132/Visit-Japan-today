@@ -1,0 +1,172 @@
+body{   /*this body section will add styles to the whole page*/
+    background-color:white; /*This changes the background colour*/
+    text-align: center; /*This piece of code makes all content center in to the middle*/
+    
+} 
+
+
+
+
+.top{background-color: #F2668B;
+height: 50px;
+width: 100%;
+float:top;
+font-size: 38;
+color:black;
+font-size: 160%;
+} 
+
+
+
+
+
+.left{background-color: #8C1636;
+height: 500px;
+width: 100%;
+float:left;
+font-size: 38 ;
+color:black;
+} 
+
+
+
+
+.bottom{background-color:#f2A2B1; 
+height: 500px;
+width: 60%;
+float: left;
+color:black;
+}
+ 
+.bottomleft{
+background-color:#f05a82;
+height:500px;
+width:40%;
+float: right;
+font-size: 140%;
+}
+
+.other{
+    background-color: #c74a6b;
+    height: 500px;
+    width: 50%;
+    float: left;
+    font-size: 130%;
+    
+}
+
+.t{
+background-color: #8C1636;
+height: 500px;
+width:50%;
+float: left;
+font-size: 140%;
+}
+
+.top2{
+    background-color:#8C1636;
+    height: 50px;
+    width: 100%;
+    float:top;
+    font-size: 138%;
+    color:black;
+    
+}
+
+.left2{ 
+background-color: #f05a82;
+height: 1300px;
+width:25%;
+float: left;
+font-size: 130%;
+}
+
+.mbox{
+    background-color:rgb(222, 17, 109);
+    height: 400px;
+    width: 30%;
+    float: left;
+    font-size:38px;
+    color: black; 
+}
+
+
+
+
+.rbox{
+background-color: #f2A2B1;
+height: 400px;
+width:20%;
+float:left;
+font-size: 50%;
+
+
+}
+
+.ebox{
+background-color: #c74a6b;
+height: 400px;
+width: 25%;
+float: left;
+font-size: 130%;
+
+}
+
+.ibox{
+background-color: #f1008d;
+height: 900px;
+width: 75%;
+float: left;
+}
+
+
+
+.left3{
+background-color: #f2A2B1;
+height: 1400px;
+width:25%;
+float: left;
+font-size: 130%;
+
+}
+
+.mbox2{
+
+background-color: #f1008d;
+height: 400px;
+width: 30%;
+float: left;
+font-size: 130%;
+}
+
+.ebox2{
+background-color: #c74a6b;
+height: 400px;
+width:45%;
+float: left;
+}
+
+.lbox2{
+background-color: #d41a87a0;
+height: 400px;
+width: 45%;
+float: left;
+ 
+
+}
+
+
+.mbox3{
+background-color: #f05a82;
+height: 1000px;
+width: 75%;
+float: left;
+font-size: 180%;
+}
+
+
+
+
+
+
+

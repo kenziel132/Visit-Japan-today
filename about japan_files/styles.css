@@ -1,0 +1,56 @@
+body{   /*this body section will add styles to the whole page*/
+    background-color: black; /*This changes the background colour*/
+    text-align: center; /*This piece of code makes all content center in to the middle*/
+    
+} 
+
+
+
+
+.top{background-color: #F2668B;
+height: 50px;
+width: 100%;
+float:top;
+font-size: 38;
+color:black;
+} 
+
+
+
+
+
+.left{background-color: #8C1636;
+height: 500px;
+width: 100%;
+float:left;
+font-size: 38 ;
+color:black;
+} 
+
+
+
+
+.bottom{background-color:#f2A2B1; 
+height: 500px;
+width: 40%;
+float: left;
+color:black;
+}
+ 
+.bottomleft{
+background-color:#f05a82;
+height:500px;
+width:30%;
+float: left;
+}
+
+.other{
+    background-color: #c74a6b;
+    height: 500px;
+    width: 33%;
+    float: left;
+}
+
+
+
+
